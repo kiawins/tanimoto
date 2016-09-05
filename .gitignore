@@ -1,3 +1,2 @@
-node_modules/
-coverage/
-tanimoto_results*
+data/
+papers/
